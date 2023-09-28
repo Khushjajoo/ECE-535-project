@@ -1,6 +1,7 @@
 # ECE-535-project
 
 ECE 535 PROJECT PROPOSAL
+
 Khushkumar Jajoo, Ritvik Verma, Anush Rathore
 
 In our pursuit of this project, we find strong alignment with our collective background and interests. Each member of our team has undergone comprehensive coursework in the field of embedded systems, fostering a deep-seated passion for working with these specialized devices. Furthermore, our prior experiences with machine learning (ML) technologies have equipped us with a unique skill set that lends itself well to the successful execution of this endeavor.
